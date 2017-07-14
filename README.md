@@ -6,4 +6,4 @@
 
 ---
 
-* Create parent.txt and add parent
+- Create parent.txt and add parent
