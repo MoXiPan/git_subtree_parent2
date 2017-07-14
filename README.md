@@ -1,5 +1,9 @@
-###parent 项目
+## parent 项目
 
-##开发者
+### 开发者
 
-*王五
+* 王五
+
+---
+
+* Create parent.txt and add parent
